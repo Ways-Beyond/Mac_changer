@@ -1,8 +1,7 @@
 # 🖥️ MAC Address Manager
 
 A colorful, menu‑driven Bash script for managing MAC addresses on Linux systems.  
-It provides a dashboard‑style interface with logging, search, backup, and real‑time monitoring.  
-**Made by ELMAN404**
+It provides a dashboard‑style interface with logging, search, backup, and real‑time monitoring. 
 
 ---
 
@@ -15,7 +14,7 @@ It provides a dashboard‑style interface with logging, search, backup, and real
 - **Log History** – view, search, clear, or backup logs with timestamps.
 - **Auto‑Refresh Mode** – continuously monitor interface states every few seconds.
 - **Summary Line** – shows counts of active vs down interfaces.
-- **Signature Logging** – every log entry is tagged with `(Made by ELMAN404)`.
+- **Signature Logging** – every log entry is tagged with.
 
 ---
 
